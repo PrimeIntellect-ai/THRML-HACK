@@ -31,7 +31,3 @@ filter_max_threshold = 1.0
 
 [[orchestrator.env]]
 id = "reverse-text"
-
-[inference.model]
-enable_auto_tool_choice = true
-tool_call_parser = "hermes"
